@@ -1,4 +1,4 @@
-# Zoo Management System
+# Zoo Management System HW 1 for CS 3035
 
 # List of animals
 animals = [
