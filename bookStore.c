@@ -1,4 +1,4 @@
-// Bookstore Management
+// Bookstore Management for HW 1 CS 3035
 
 #include <stdio.h>
 
