@@ -10,7 +10,7 @@ def concatStrings(string1, string2):
 
 # 3.
 def divideString(input_string):
-    half_length = math.floor(len(input_string) / 2)
+    half_length = int(len(input_string) / 2)
     return input_string[0:half_length]
 
 # 4.
